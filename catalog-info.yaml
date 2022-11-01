@@ -3,9 +3,9 @@ kind: Component
 metadata:
   name: Black_Jack_Game
   links:
-    url: https://github.com/mohitkrajpoot/Black_Jack_Game
-    title: Black Jack game
-    icon: Black Jack game
+    - url: https://github.com/mohitkrajpoot/Black_Jack_Game
+      title: Black Jack game
+      icon: Black Jack game
   annotations:
     github.com/project-slug: mohitkrajpoot/Black_Jack_Game
 spec:
