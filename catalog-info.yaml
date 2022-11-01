@@ -8,6 +8,7 @@ metadata:
       icon: Black_Jack_game
   annotations:
     github.com/project-slug: mohitkrajpoot/Black_Jack_Game
+    backstage.io/techdocs-ref: url:https://github.com/mohitkrajpoot/Black_Jack_Game/blob/main/README.md
 spec:
   type: other
   lifecycle: unknown
